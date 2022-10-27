@@ -4,7 +4,7 @@
 
 **Hello**
 
-*This is a file about me* 
+*This is a file about me 
 
 Here is a list of things about me *
 
