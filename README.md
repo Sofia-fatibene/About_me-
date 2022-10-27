@@ -30,4 +30,12 @@
 | Hair  | Brown |
 |Colour of skin| light|
 
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
 
