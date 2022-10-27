@@ -24,9 +24,10 @@
 
 > but I'm really bad at it
 
-| Syntax | Description |
+| Fisical description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Eyes | Brown |
+| Hair  | Brown |
+|Colour of skin| light|
 
 
