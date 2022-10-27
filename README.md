@@ -36,7 +36,8 @@ My features
 
 - ~~I like coffe and tea.~~ :☕:
 
+*I also like:*
 
-H~2~O
-
-X^2^
+- [x] Taking photos  
+- [ ] Snow 
+- [x] Daisies
