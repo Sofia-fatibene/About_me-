@@ -31,8 +31,8 @@
 |Colour of skin| light|
 
 
-term
-: definition
+My features 
+: Happy, Stubborn, kind
 
 
 
