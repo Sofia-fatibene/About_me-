@@ -34,5 +34,5 @@
 My features 
 : Happy, Stubborn, kind
 
-~~The world is flat.~~
+~~I like coffe and tea.~~
 
