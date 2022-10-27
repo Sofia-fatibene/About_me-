@@ -20,7 +20,7 @@
 
 ![Photo](liga-liepina-horses.jpg)
 
--I also like to read and to draw (
+-I also like to read and to draw 
 
 > but I'm really bad at it
 
@@ -30,9 +30,8 @@
 | Hair  | Brown |
 |Colour of skin| light|
 
-'''
-How
 
-'''
+### My Great Heading {#custom-id}
+
 
 
