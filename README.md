@@ -18,7 +18,7 @@
 
 *here is a photo*
 
-![Photo](liga-li![images-1](https://user-images.githubusercontent.com/116816048/198418032-a7202410-bf8e-4219-acf3-7baddb769cc3.jpeg)
+![  ]([images-1](https://user-images.githubusercontent.com/116816048/198418032-a7202410-bf8e-4219-acf3-7baddb769cc3.jpeg)
 
 
 -I also like to read and to draw 
