@@ -1,5 +1,5 @@
 # About_me-
-##To test Markdown formattings.  
+##H2 To test Markdown formattings.  
 **Hello**
 *This is a file about me* 
 *Here is a list of things about me *
