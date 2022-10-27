@@ -12,9 +12,13 @@
 
 *here are some info about them*
 
-[Photo](https://en.wikipedia.org/wiki/Horse)
+[Info](https://en.wikipedia.org/wiki/Horse)
 
 -I like music  and I play the violin 
+
+*here is a photo*
+
+![Photo](images.jpeg)
 
 -I also like to read and to draw (but I'm really bad at it) 
 
