@@ -24,4 +24,9 @@
 
 > but I'm really bad at it
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 
