@@ -33,7 +33,7 @@
 |Colour of skin| light|
 
 
-My features 
+My features  
 : Happy, Stubborn, kind
 
 - ~~I like coffe and tea.~~ :☕::tea:
