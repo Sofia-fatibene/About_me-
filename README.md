@@ -34,7 +34,5 @@
 My features 
 : Happy, Stubborn, kind
 
-- ~~I like coffe and tea.~~
-
-That is so funny! :joy:
+- ~~I like coffe and tea.~~ :☕:
 
