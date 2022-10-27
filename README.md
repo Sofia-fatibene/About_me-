@@ -11,7 +11,7 @@
 - I like horses
 
 *here is a photo of them*
-![alt text](liga-liepina-horses.jpg)
+![horses!](liga-liepina-horses.jpg)
 
 -I like music  and I play the violin 
 
