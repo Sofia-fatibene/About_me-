@@ -34,10 +34,10 @@
 My features 
 : Happy, Stubborn, kind
 
-- ~~I like coffe and tea.~~ :☕:
+- ~~I like coffe and tea.~~ :☕::tea:
 
 *I also like:*
 
 - [x] Taking photos  
-- [ ] Snow 
+- [x] Snow 
 - [x] Daisies
