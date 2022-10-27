@@ -1,4 +1,4 @@
-# About_me-
+# About_me
 
 ## To test Markdown formattings.  
 
@@ -6,7 +6,7 @@
 
 *This is a file about me* 
 
-*Here is a list of things about me *
+Here is a list of things about me *
 
 - I like horses
 
