@@ -24,7 +24,7 @@
 
 > but I'm really bad at it
 
-| Fisical description |
+| Fisical | description |
 | ----------- | ----------- |
 | Eyes | Brown |
 | Hair  | Brown |
