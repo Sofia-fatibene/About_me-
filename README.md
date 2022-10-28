@@ -46,6 +46,6 @@ My features
 
 *When I grow up i want to study:*
 
-==Ethology==.
+==Ethology==. 
 
 **End of Script**
